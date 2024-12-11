@@ -104,5 +104,5 @@ This contract has been audited to ensure adherence to best practices and securit
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For inquiries, reach out to [YONA TEAM] at [admin@yona.com].
+For inquiries, reach out to YONA TEAM at admin@yona.com.
 
